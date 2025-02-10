@@ -2,11 +2,11 @@
 
 
 ## Features
-✅ **Reserve a Ticket**: Users can reserve a ticket by providing their name, email, and preferred event date.
-✅ **View Ticket Details**: Retrieve ticket details using an email.
-✅ **View All Attendees**: Get a list of attendees for a specific event date.
-✅ **Cancel a Reservation**: Allows users to cancel their reservation.
-✅ **Modify Seat Reservation**: Users can change their seat reservation.
+**Reserve a Ticket**: Users can reserve a ticket by providing their name, email, and preferred event date.
+**View Ticket Details**: Retrieve ticket details using an email.
+**View All Attendees**: Get a list of attendees for a specific event date.
+**Cancel a Reservation**: Allows users to cancel their reservation.
+**Modify Seat Reservation**: Users can change their seat reservation.
 
 ## Tech Stack
 - **Golang** (Gin Framework)
